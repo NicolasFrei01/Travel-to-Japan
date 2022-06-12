@@ -1,4 +1,4 @@
 # Travel-to-Japan
 
-Второй проект - (nicolasfrei01.github.io/travel-to-japan/) ![](nicolasfrei01.github.io/travel-to-japan/)
+Второй проект - ![Клик](nicolasfrei01.github.io/travel-to-japan/)
 
